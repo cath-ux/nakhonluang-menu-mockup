@@ -172,7 +172,7 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
 .rel-card .t small{font-family:var(--label);font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-soft)}
 .rel-card .t b{display:block;font-family:var(--serif);font-size:24px;font-weight:600;margin:4px 0 4px}
 .rel-card .t span{font-size:15px;color:#F0E4CB}
-.more-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
+.more-links{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:26px}
 .more-links a{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px;border-radius:999px;border:1px solid var(--line-strong);background:var(--cream-light);color:var(--brown);font-weight:500;text-decoration:none;transition:background-color .15s ease-out,color .15s ease-out}
 .more-links a:hover{background:var(--brown);color:var(--cream-light)}
 
@@ -227,6 +227,34 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
 }
 
 
+
+.sec-head{margin:0 auto 40px;text-align:center}
+.sec-head .bluf{margin:0 auto}
+.build .sec-head,.intro .sec-head{text-align:left;margin-left:0}
+.build .sec-head .bluf,.intro .sec-head .bluf{margin:0}
+.cta-center{justify-content:center}
+.tbl-note{text-align:center}
+
+
+.intro{display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:center}
+.intro p{margin:0 0 16px;font-size:17.5px;color:var(--ink-soft)}
+.intro p a{color:var(--brown);font-weight:700}
+.glance{background:var(--brown);color:var(--cream-light);border-radius:20px;padding:30px 30px 26px;box-shadow:var(--shadow-lift)}
+.glance h3{font-family:var(--serif);font-size:22px;color:var(--gold);margin:0 0 14px}
+.glance ul{list-style:none;margin:0 0 22px;padding:0}
+.glance li{display:grid;grid-template-columns:24px 1fr;gap:10px;padding:10px 0;border-top:1px solid rgba(242,210,133,.22);font-size:16px;color:#F3E7CC}
+.glance li svg{width:20px;height:20px;color:var(--gold);margin-top:3px}
+.glance .btn{width:100%}
+
+
+.why{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.why-card{background:var(--cream-light);border:1px solid var(--line);border-top:4px solid var(--gold);border-radius:16px;padding:28px 24px;text-align:center;box-shadow:var(--shadow)}
+.why-card .ic{width:56px;height:56px;border-radius:50%;background:var(--cream-deep);display:grid;place-items:center;margin:0 auto 14px;color:var(--brown)}
+.why-card .ic svg{width:26px;height:26px}
+.why-card h3{font-family:var(--serif);font-size:20px;color:var(--brown);margin:0 0 8px}
+.why-card p{margin:0;font-size:16px;color:var(--ink-mute)}
+
+
 @media (max-width:1080px){
   .mainnav,.soc{display:none}
   .menu-toggle{display:inline-flex;align-items:center}
@@ -246,6 +274,8 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
   .loc-map,.loc-map iframe{min-height:300px}
   .loc-info{padding:30px 22px}
   .rel{grid-template-columns:1fr}
+  .intro{grid-template-columns:1fr;gap:32px}
+  .why{grid-template-columns:1fr}
   .rel-card{min-height:260px}
   .faq{grid-template-columns:1fr}
   .foot-grid{grid-template-columns:1fr 1fr}
@@ -394,7 +424,8 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
 <nav class="subnav" aria-label="On this page">
   <div class="wrap">
     <div class="tabs">
-      <a href="#styles" class="on">Styles</a>
+      <a href="#about-dish" class="on">Pad Thai</a>
+      <a href="#styles">Styles</a>
       <a href="#build">Build Yours</a>
       <a href="#compare">Compare</a>
       <a href="#find">Find Us</a>
@@ -404,6 +435,30 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
     <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Order Online</a>
   </div>
 </nav>
+
+<section class="sec" id="about-dish" aria-label="Pad Thai near you" style="background:var(--cream-light)">
+  <div class="wrap intro">
+    <div class="rise">
+      <div class="sec-head" style="margin-bottom:22px">
+        <div class="eyebrow">Pad Thai near you</div>
+        <h2>Pad Thai from our kitchen in Rockrimmon</h2>
+      </div>
+      <p>Looking for Pad Thai in Colorado Springs? At <strong>Nakhon Luang Thai Kitchen</strong>, we serve it from our kitchen at 805 Village Center Drive in Rockrimmon, with online ordering for pickup every day for lunch and dinner.</p>
+      <p>Our menu draws on Bangkok, Isan, Northern and Southern Thai and Lao cooking, and each dish is prepared with fresh ingredients and a careful balance of flavor. Our Pad Thai brings rice noodles, egg, bean sprouts, green onions and crushed peanuts together, made to your spice level.</p>
+      <p><a href="https://nakhonluangthaicos.com/about/">Read our story</a></p>
+    </div>
+    <aside class="glance rise" aria-label="Pad Thai at a glance">
+      <h3>Pad Thai at a glance</h3>
+      <ul>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Four styles on our menu</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Nine protein options on the noodle menu</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Made to your desired spice level</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Online ordering for pickup at 805 Village Center Drive</span></li>
+      </ul>
+      <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Order Pad Thai Online</a>
+    </aside>
+  </div>
+</section>
 
 <section class="sec" id="styles" aria-label="Pad Thai styles">
   <div class="wrap">
@@ -472,7 +527,22 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
   </div>
 </section>
 
-<section class="sec" id="compare" aria-label="Compare noodle dishes" style="background:var(--cream-deep)">
+<section class="sec" id="why" aria-label="Why order from us" style="background:var(--cream-deep)">
+  <div class="wrap">
+    <div class="sec-head rise">
+      <div class="eyebrow">Why order from us</div>
+      <h2>Pad Thai, made your way</h2>
+    </div>
+    <div class="why stagger">
+      <div class="why-card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 19c0-8 6-14 15-14 0 9-6 15-14 15"/><path d="M5 19 13 11"/></svg></div><h3>Fresh ingredients</h3><p>Each dish is prepared with fresh ingredients and a careful balance of flavor.</p></div>
+      <div class="why-card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M8 14c0 4 3 7 7 7 3 0 5-2 5-5 0-5-6-6-6-12-2 2-3 4-3 6"/><path d="M8 14c-2 0-4-2-4-4"/></svg></div><h3>Your spice level</h3><p>All dishes can be made to your desired spice level. Just let us know when you order.</p></div>
+      <div class="why-card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 7h12l-1 13H7z"/><path d="M9 7a3 3 0 0 1 6 0"/></svg></div><h3>Online pickup</h3><p>Order online and pick up from 805 Village Center Drive in Rockrimmon.</p></div>
+    </div>
+    <div class="cta-row cta-center"><a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Start Your Order</a></div>
+  </div>
+</section>
+
+<section class="sec" id="compare" aria-label="Compare noodle dishes">
   <div class="wrap">
     <div class="sec-head rise">
       <div class="eyebrow">Not sure which noodle</div>
@@ -491,7 +561,7 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
       </table>
     </div>
     <p class="tbl-note">Ingredients as listed on our current menu. All dishes can be made to your desired spice level.</p>
-    <div class="cta-row">
+    <div class="cta-row cta-center">
       <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Order Online</a>
       <a class="btn btn-ghost" href="https://nakhonluangthaicos.com/menu/">See All Noodle Dishes</a>
     </div>
