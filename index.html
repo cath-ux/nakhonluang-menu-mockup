@@ -177,10 +177,16 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
 .more-links a:hover{background:var(--brown);color:var(--cream-light)}
 
 
-.faq{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
-.qa{background:var(--cream-light);border:1px solid var(--line);border-radius:16px;padding:24px 24px 22px}
-.qa h3{font-family:var(--serif);font-size:19px;color:var(--brown);line-height:1.35;margin:0 0 8px}
-.qa p{margin:0;font-size:16px;color:var(--ink-mute)}
+.faq{display:grid;grid-template-columns:1fr;gap:12px;max-width:860px}
+.qa{background:var(--cream-light);border:1px solid var(--line);border-radius:14px;transition:background-color .15s ease-out,border-color .15s ease-out}
+.qa summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 22px;min-height:56px}
+.qa summary::-webkit-details-marker{display:none}
+.qa summary::after{content:"+";flex-shrink:0;width:32px;height:32px;border-radius:50%;display:grid;place-items:center;background:var(--cream-deep);color:var(--brown);font:600 20px/1 var(--body);transition:transform .25s var(--ease),background-color .15s ease-out}
+.qa[open]{background:#fff;border-color:var(--gold)}
+.qa[open] summary::after{content:"\2212";background:var(--gold)}
+.qa summary:focus-visible{outline:3px solid var(--gold);outline-offset:2px;border-radius:14px}
+.qa h3{font-family:var(--serif);font-size:18px;color:var(--brown);line-height:1.35;margin:0}
+.qa p{margin:0;padding:0 22px 20px;font-size:16px;color:var(--ink-mute)}
 .qa a{color:var(--brown);font-weight:700}
 
 
@@ -229,6 +235,8 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
 
 
 .cta-center{justify-content:center}
+.cta-side{margin-top:22px}
+.cta-side .btn{flex:1 1 auto}
 
 
 .intro{display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:center}
@@ -272,7 +280,6 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
   .intro{grid-template-columns:1fr;gap:32px}
   .why{grid-template-columns:1fr}
   .rel-card{min-height:260px}
-  .faq{grid-template-columns:1fr}
   .foot-grid{grid-template-columns:1fr 1fr}
   .subnav .btn{display:none}
   .float-order{display:none}
@@ -510,14 +517,14 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
         <li><div><h3>Set the spice</h3><p>Every dish can be made to your desired spice level. Just let us know when you order.</p>
           <div class="spice" aria-hidden="true"><i></i><i></i><i></i><i></i><span>&nbsp;your level</span></div></div></li>
       </ol>
-      <div class="cta-row">
-        <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Start My Order</a>
-        <a class="btn btn-ghost" href="tel:+17195315175">Questions? (719) 531-5175</a>
-      </div>
     </div>
     <div class="build-side">
       <div class="frame rise"><img src="img/nl-thai-aromatics.jpg" alt="Fresh lemongrass, red chilies, galangal, lime and makrut lime leaves on a wooden table" width="1000" height="667" loading="lazy"></div>
       <div class="note"><b>Allergy note:</b> our Pad Thai is topped with crushed peanuts. Please tell us about any allergy or dietary need when you order.</div>
+      <div class="cta-row cta-side">
+        <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Start My Order</a>
+        <a class="btn btn-ghost" href="tel:+17195315175">Questions? (719) 531-5175</a>
+      </div>
     </div>
   </div>
 </section>
@@ -610,12 +617,12 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:16px}
       <h2>Frequently Asked Questions</h2>
     </div>
     <div class="faq stagger">
-      <div class="qa"><h3>Can I order Pad Thai online for pickup?</h3><p>Yes. Order Pad Thai on our <a href="https://nakhonluangthaicos.com/order/">online ordering page</a> and pick it up at 805 Village Center Drive in Colorado Springs.</p></div>
-      <div class="qa"><h3>Which proteins can I add to Pad Thai?</h3><p>Our noodle menu lists chicken, beef, pork, tofu, mixed vegetables, shrimp, salmon, combination seafood and duck. Check the ordering page for the choices available with your dish. The signature Pad Thai comes with grilled chicken.</p></div>
-      <div class="qa"><h3>What is the difference between Pad Thai and Pad Thai Woon Sen?</h3><p>Pad Thai uses stir-fried rice noodles. Pad Thai Woon Sen uses vermicelli, also called glass noodles, with the same egg, bean sprouts, green onions and crushed peanuts.</p></div>
-      <div class="qa"><h3>Can I choose how spicy my Pad Thai is?</h3><p>Yes. Every dish on our menu can be made to your desired spice level. Let us know when you order.</p></div>
-      <div class="qa"><h3>Does Pad Thai contain peanuts?</h3><p>Our Pad Thai is topped with crushed peanuts. Please tell us about any allergy or dietary need before you order.</p></div>
-      <div class="qa"><h3>What are your hours?</h3><p>We are open every day from 11:00 AM to 3:30 PM and from 4:30 PM to 8:30 PM. Questions? Reach us at <a href="tel:+17195315175">(719) 531-5175</a>.</p></div>
+      <details class="qa" open><summary><h3>Can I order Pad Thai online for pickup?</h3></summary><p>Yes. Order Pad Thai on our <a href="https://nakhonluangthaicos.com/order/">online ordering page</a> and pick it up at 805 Village Center Drive in Colorado Springs.</p></details>
+      <details class="qa"><summary><h3>Which proteins can I add to Pad Thai?</h3></summary><p>Our noodle menu lists chicken, beef, pork, tofu, mixed vegetables, shrimp, salmon, combination seafood and duck. Check the ordering page for the choices available with your dish. The signature Pad Thai comes with grilled chicken.</p></details>
+      <details class="qa"><summary><h3>What is the difference between Pad Thai and Pad Thai Woon Sen?</h3></summary><p>Pad Thai uses stir-fried rice noodles. Pad Thai Woon Sen uses vermicelli, also called glass noodles, with the same egg, bean sprouts, green onions and crushed peanuts.</p></details>
+      <details class="qa"><summary><h3>Can I choose how spicy my Pad Thai is?</h3></summary><p>Yes. Every dish on our menu can be made to your desired spice level. Let us know when you order.</p></details>
+      <details class="qa"><summary><h3>Does Pad Thai contain peanuts?</h3></summary><p>Our Pad Thai is topped with crushed peanuts. Please tell us about any allergy or dietary need before you order.</p></details>
+      <details class="qa"><summary><h3>What are your hours?</h3></summary><p>We are open every day from 11:00 AM to 3:30 PM and from 4:30 PM to 8:30 PM. Questions? Reach us at <a href="tel:+17195315175">(719) 531-5175</a>.</p></details>
     </div>
   </div>
 </section>
