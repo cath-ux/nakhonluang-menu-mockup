@@ -249,6 +249,8 @@ html:has(.nlm),body:has(.nlm){overflow-x:clip}
 #nlm .promo .btn-ghost,#nlm .mbar .btn-ghost{border-color:var(--gold-soft)!important;color:var(--cream-light)!important}
 #nlm .promo .btn-ghost:hover,#nlm .mbar .btn-ghost:hover{background:var(--gold-soft);color:var(--brown-deep)!important}
 #nlm .promo .eyebrow{color:var(--gold)!important}
+body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
+@media (max-width:782px){body.admin-bar #nlm .subnav{top:calc(var(--navh) + 46px)}}
 </style>
 <div class="nlm" id="nlm">
 <nav class="crumbs" aria-label="Breadcrumb">
