@@ -251,6 +251,9 @@ html:has(.nlm),body:has(.nlm){overflow-x:clip}
 #nlm .promo .eyebrow{color:var(--gold)!important}
 body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
 @media (max-width:782px){body.admin-bar #nlm .subnav{top:calc(var(--navh) + 46px)}}
+#nlm .cmp .pl{color:var(--brown)!important;font-weight:700!important}
+#nlm .more-links .pl{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px!important;border-radius:999px;border:1px solid var(--line-strong);background:var(--cream-light);color:var(--brown)!important;font-weight:500!important}
+#nlm div.rel-card{cursor:default}
 </style>
 <div class="nlm" id="nlm">
 <nav class="crumbs" aria-label="Breadcrumb">
@@ -408,8 +411,8 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
         <thead><tr><th scope="col">Dish</th><th scope="col">Noodle</th><th scope="col">Sauce and flavor</th><th scope="col">Main ingredients</th></tr></thead>
         <tbody>
           <tr class="me"><td>Pad Thai</td><td>Rice noodles</td><td>Stir-fried, finished with crushed peanuts</td><td>Egg, bean sprouts, green onions, peanuts</td></tr>
-          <tr><td><a href="https://nakhonluangthaicos.com/menu/drunken-noodles/">Drunken Noodles</a></td><td>Flat rice noodles</td><td>Spicy chili sauce with basil</td><td>Onions, bell peppers, bamboo shoots, basil leaves</td></tr>
-          <tr><td><a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a></td><td>Large rice noodles</td><td>Soy sauce</td><td>Egg, carrots, broccoli</td></tr>
+          <tr><td><span class="pl" data-href="https://nakhonluangthaicos.com/menu/drunken-noodles/">Drunken Noodles</span></td><td>Flat rice noodles</td><td>Spicy chili sauce with basil</td><td>Onions, bell peppers, bamboo shoots, basil leaves</td></tr>
+          <tr><td><span class="pl" data-href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</span></td><td>Large rice noodles</td><td>Soy sauce</td><td>Egg, carrots, broccoli</td></tr>
           <tr><td>Pad Thai Woon Sen</td><td>Vermicelli (glass noodles)</td><td>Stir-fried, finished with crushed peanuts</td><td>Egg, bean sprouts, green onions, peanuts</td></tr>
         </tbody>
       </table>
@@ -454,24 +457,24 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       <p class="bluf">Add a second noodle plate for the table, or start with an appetizer.</p>
     </div>
     <div class="rel stagger">
-      <a class="rel-card" href="https://nakhonluangthaicos.com/menu/drunken-noodles/">
+      <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/drunken-noodles/">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl8b-dish-drunkennoodles-opt.jpg" alt="Drunken noodles with basil and bell peppers" width="900" height="668" loading="lazy">
         <div class="t"><small>Noodles</small><b>Drunken Noodles</b><span>Flat rice noodles, basil, spicy chili sauce</span></div>
-      </a>
-      <a class="rel-card" href="https://nakhonluangthaicos.com/menu/thai-fried-rice/">
+      </div>
+      <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/thai-fried-rice/">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-khaopad-hero.jpg" alt="Thai fried rice with egg and tomato, served with cucumber and lime" width="900" height="608" loading="lazy">
         <div class="t"><small>Fried rice</small><b>Thai Fried Rice</b><span>Thai, pineapple and basil fried rice</span></div>
-      </a>
-      <a class="rel-card" href="https://nakhonluangthaicos.com/menu/khao-soi/">
+      </div>
+      <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/khao-soi/">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl8-dish-khaosoi-opt.jpg" alt="Khao soi curry noodle soup with lime and red onion" width="900" height="668" loading="lazy">
         <div class="t"><small>Noodle soup</small><b>Khao Soi</b><span>Northern Thai curry noodle soup</span></div>
-      </a>
+      </div>
     </div>
     <div class="more-links">
-      <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</a>
-      <a href="https://nakhonluangthaicos.com/menu/crab-rangoon/">Crab Rangoon</a>
-      <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a>
-      <a href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai Curry</a>
+      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</span>
+      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/crab-rangoon/">Crab Rangoon</span>
+      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</span>
+      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai Curry</span>
       <a href="https://nakhonluangthaicos.com/menu/">Full Menu</a>
     </div>
   </div>
