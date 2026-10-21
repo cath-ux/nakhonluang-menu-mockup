@@ -465,7 +465,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
         <div class="t"><small>Noodles</small><b>Pad See Ew</b><span>Large rice noodles, egg, broccoli, soy sauce</span></div>
       </a>
       <a class="rel-card" href="https://nakhonluangthaicos.com/menu/crab-rangoon/">
-        <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-rangoon-hero-768x422.jpg" alt="Crab rangoon wonton parcels with cream cheese filling" width="768" height="422" loading="lazy">
+        <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-crab-rangoon-768x576.jpg" alt="Crab rangoon wonton parcels around a bowl of sweet and sour sauce" width="768" height="576" loading="lazy">
         <div class="t"><small>Appetizer</small><b>Crab Rangoon</b><span>Imitation crab and cream cheese in crispy wonton skins</span></div>
       </a>
     </div>

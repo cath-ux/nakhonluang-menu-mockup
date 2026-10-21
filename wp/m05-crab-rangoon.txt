@@ -292,7 +292,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </div>
     </div>
     <div class="hero-photo">
-      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-rangoon-hero-1536x845.jpg" alt="Crab rangoon parcels on a gray plate, one opened to show the cream cheese filling" width="1536" height="845" fetchpriority="high"></div>
+      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-crab-rangoon-1536x1153.jpg" alt="Crab rangoon wonton parcels around a bowl of sweet and sour sauce" width="1536" height="1153" fetchpriority="high"></div>
       <div class="hero-badge"><b>805</b><span>Village Center Drive, ready for pickup in Colorado Springs</span></div>
     </div>
   </div>
@@ -455,7 +455,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     </div>
     <div class="rel stagger">
       <a class="rel-card" href="https://nakhonluangthaicos.com/menu/spring-rolls/">
-        <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/fresh-spring-rolls-rice-paper-shrimp-768x512.jpg" alt="Fresh spring rolls in rice paper with shrimp and herbs" width="768" height="512" loading="lazy">
+        <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-fresh-spring-rolls-768x575.jpg" alt="Fresh spring rolls in rice paper with shrimp, lettuce and carrot" width="768" height="575" loading="lazy">
         <div class="t"><small>Appetizer</small><b>Spring Rolls</b><span>Fresh rice paper rolls and crispy fried rolls</span></div>
       </a>
       <a class="rel-card" href="https://nakhonluangthaicos.com/menu/thai-fried-rice/">

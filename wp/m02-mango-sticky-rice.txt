@@ -292,7 +292,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </div>
     </div>
     <div class="hero-photo">
-      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/mango-with-black-sticky-rice-coconut-milk-1536x1024.jpg" alt="Sliced mango beside black sticky rice, drizzled with coconut milk and sesame seeds" width="1536" height="1024" fetchpriority="high"></div>
+      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-mango-sunset.jpg" alt="Mango Sunset: sliced mango beside black sticky rice with sesame seeds and mint" width="1280" height="960" fetchpriority="high"></div>
       <div class="hero-badge"><b>805</b><span>Village Center Drive, ready for pickup in Colorado Springs</span></div>
     </div>
   </div>

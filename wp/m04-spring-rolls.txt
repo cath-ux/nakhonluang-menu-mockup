@@ -292,7 +292,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </div>
     </div>
     <div class="hero-photo">
-      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/fresh-spring-rolls-rice-paper-shrimp.jpg" alt="Fresh spring rolls in rice paper with shrimp and herbs, beside a dipping sauce topped with ground peanuts" width="1400" height="933" fetchpriority="high"></div>
+      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-fresh-spring-rolls.jpg" alt="Fresh spring rolls in rice paper with shrimp, lettuce and carrot, served with a peanut-topped dipping sauce" width="1045" height="783" fetchpriority="high"></div>
       <div class="hero-badge"><b>805</b><span>Village Center Drive, ready for pickup in Colorado Springs</span></div>
     </div>
   </div>
@@ -393,7 +393,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </ol>
     </div>
     <div class="build-side">
-      <div class="frame rise"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/fresh-spring-rolls-peanut-dipping-sauce.jpg" alt="Fresh rice paper rolls with shrimp and greens beside a peanut dipping sauce" width="1000" height="667" loading="lazy"></div>
+      <div class="frame rise"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-vegetable-rolls-1024x769.jpg" alt="Three crispy fried vegetable rolls with sweet and sour dipping sauce" width="1024" height="769" loading="lazy"></div>
       <div class="note"><b>Allergy note:</b> our Fresh Spring Rolls contain shrimp and chicken, and the sauce is topped with ground peanuts. Please tell us about any allergy or dietary need when you order.</div>
       <div class="cta-row cta-side">
         <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/">Start My Order</a>
@@ -462,7 +462,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     </div>
     <div class="rel stagger">
       <a class="rel-card" href="https://nakhonluangthaicos.com/menu/crab-rangoon/">
-        <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-rangoon-hero-768x422.jpg" alt="Crab rangoon wonton parcels with cream cheese filling" width="768" height="422" loading="lazy">
+        <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nakhon-luang-crab-rangoon-768x576.jpg" alt="Crab rangoon wonton parcels around a bowl of sweet and sour sauce" width="768" height="576" loading="lazy">
         <div class="t"><small>Appetizer</small><b>Crab Rangoon</b><span>Imitation crab and cream cheese in crispy wonton skins</span></div>
       </a>
       <a class="rel-card" href="https://nakhonluangthaicos.com/menu/pad-thai/">
