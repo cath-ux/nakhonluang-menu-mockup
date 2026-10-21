@@ -292,7 +292,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </div>
     </div>
     <div class="hero-photo">
-      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-rangoon-hero-1536x845.jpg" alt="Crab rangoon parcels on a grey plate, one opened to show the cream cheese filling" width="1536" height="845" fetchpriority="high"></div>
+      <div class="frame"><img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-rangoon-hero-1536x845.jpg" alt="Crab rangoon parcels on a gray plate, one opened to show the cream cheese filling" width="1536" height="845" fetchpriority="high"></div>
       <div class="hero-badge"><b>805</b><span>Village Center Drive, ready for pickup in Colorado Springs</span></div>
     </div>
   </div>
