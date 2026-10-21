@@ -341,7 +341,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
 <section class="sec" id="styles" aria-label="Fried rice styles">
   <div class="wrap">
     <div class="sec-head rise">
-      <div class="eyebrow">Three ways to order it</div>
+      <div class="eyebrow">Our fried rice section</div>
       <h2>Pick your fried rice</h2>
       <p class="bluf">Our fried rice section carries Thai, pineapple and basil fried rice, plus a smaller plate on the kids menu.</p>
     </div>
