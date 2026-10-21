@@ -51,6 +51,7 @@
 #nlm .hero h1{font-family:var(--display)!important;font-weight:400!important;font-size:clamp(46px,6vw,78px)!important;line-height:1.04!important;margin:14px 0 18px!important;color:var(--cream-light)!important}
 #nlm .hero h1 .k{color:var(--gold)!important;display:block;font-size:.62em!important;margin-top:6px!important}
 #nlm .hero .sub{font-size:19px!important;color:#EADDC2!important;max-width:52ch;margin:0!important}
+#nlm .hero .sub a{text-decoration:underline!important;text-underline-offset:3px}
 #nlm .reassure{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:22px!important;font-size:14.5px!important;color:#D9C9A8!important}
 #nlm .reassure span{display:inline-flex;align-items:center;gap:7px}
 #nlm .reassure svg{width:16px;height:16px;color:var(--gold)!important}
@@ -254,6 +255,10 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
 #nlm .cmp .pl{color:var(--brown)!important;font-weight:700!important}
 #nlm .more-links .pl{display:inline-flex;align-items:center;min-height:44px;padding:8px 18px!important;border-radius:999px;border:1px solid var(--line-strong);background:var(--cream-light);color:var(--brown)!important;font-weight:500!important}
 #nlm div.rel-card{cursor:default}
+#nlm .styles.c3{grid-template-columns:repeat(3,1fr)}
+@media (max-width:1080px){#nlm .styles.c3{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){#nlm .styles.c3{grid-template-columns:1fr}}
+#nlm a.rel-card{cursor:pointer}
 </style>
 <div class="nlm" id="nlm">
 <nav class="crumbs" aria-label="Breadcrumb">
@@ -270,7 +275,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="rise in">
       <div class="eyebrow">Noodle menu &middot; Colorado Springs</div>
       <h1>Pad Thai <span class="k">in Colorado Springs</span></h1>
-      <p class="sub">Stir-fried rice noodles with egg and bean sprouts, finished with green onions and crushed peanuts. At <strong>Nakhon Luang Thai Kitchen</strong>, we make it four ways, with the protein and spice level you choose.</p>
+      <p class="sub">Stir-fried rice noodles with egg and bean sprouts, finished with green onions and crushed peanuts. At <strong><a href="https://nakhonluangthaicos.com/">Nakhon Luang Thai Kitchen</a></strong>, we make it four ways, with the protein and spice level you choose.</p>
       <div class="cta-row">
         <a class="btn btn-gold" href="https://nakhonluangthaicos.com/order/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6h15l-1.5 9h-12z"/><path d="M6 6 5 3H2"/><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/></svg>Order Pad Thai Online</a>
         <a class="btn btn-ghost" href="https://nakhonluangthaicos.com/menu/">View the Full Menu</a>
@@ -317,6 +322,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </div>
       <p>Looking for Pad Thai in Colorado Springs? At <strong>Nakhon Luang Thai Kitchen</strong>, we serve it from our kitchen at 805 Village Center Drive, located in the Rockrimmon neighborhood, with online ordering for pickup every day for lunch and dinner.</p>
       <p>Our menu draws on Bangkok, Isan, Northern and Southern Thai and Lao cooking, and each dish is prepared with fresh ingredients and a careful balance of flavor. Our Pad Thai brings rice noodles, egg, bean sprouts, green onions and crushed peanuts together, made to your spice level.</p>
+      <p><a href="https://nakhonluangthaicos.com/order/">Order Pad Thai for pickup</a>, or browse our <a href="https://nakhonluangthaicos.com/menu/">full Thai menu</a>.</p>
       <p><a href="https://nakhonluangthaicos.com/about/">Read our story</a></p>
     </div>
     <aside class="glance rise" aria-label="Pad Thai at a glance">
@@ -404,15 +410,15 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="sec-head rise">
       <div class="eyebrow">Not sure which noodle</div>
       <h2>Pad Thai next to our other noodle dishes</h2>
-      <p class="bluf">Each plate uses a different noodle and sauce. Here is how they line up on our menu.</p>
+      <p class="bluf">Each plate uses a different noodle and sauce. Compare our <a href="https://nakhonluangthaicos.com/menu/drunken-noodles/">drunken noodles</a> for basil and chili, or start with our <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">fresh spring rolls</a>.</p>
     </div>
     <div class="cmp-wrap rise">
       <table class="cmp">
         <thead><tr><th scope="col">Dish</th><th scope="col">Noodle</th><th scope="col">Sauce and flavor</th><th scope="col">Main ingredients</th></tr></thead>
         <tbody>
           <tr class="me"><td>Pad Thai</td><td>Rice noodles</td><td>Stir-fried, finished with crushed peanuts</td><td>Egg, bean sprouts, green onions, peanuts</td></tr>
-          <tr><td><span class="pl" data-href="https://nakhonluangthaicos.com/menu/drunken-noodles/">Drunken Noodles</span></td><td>Flat rice noodles</td><td>Spicy chili sauce with basil</td><td>Onions, bell peppers, bamboo shoots, basil leaves</td></tr>
-          <tr><td><span class="pl" data-href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</span></td><td>Large rice noodles</td><td>Soy sauce</td><td>Egg, carrots, broccoli</td></tr>
+          <tr><td><a href="https://nakhonluangthaicos.com/menu/drunken-noodles/">Drunken Noodles</a></td><td>Flat rice noodles</td><td>Spicy chili sauce with basil</td><td>Onions, bell peppers, bamboo shoots, basil leaves</td></tr>
+          <tr><td><a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a></td><td>Large rice noodles</td><td>Soy sauce</td><td>Egg, carrots, broccoli</td></tr>
           <tr><td>Pad Thai Woon Sen</td><td>Vermicelli (glass noodles)</td><td>Stir-fried, finished with crushed peanuts</td><td>Egg, bean sprouts, green onions, peanuts</td></tr>
         </tbody>
       </table>
@@ -457,23 +463,23 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       <p class="bluf">Add a second noodle plate for the table, or start with an appetizer.</p>
     </div>
     <div class="rel stagger">
-      <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/drunken-noodles/">
+      <a class="rel-card" href="https://nakhonluangthaicos.com/menu/drunken-noodles/">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl8b-dish-drunkennoodles-opt.jpg" alt="Drunken noodles with basil and bell peppers" width="900" height="668" loading="lazy">
         <div class="t"><small>Noodles</small><b>Drunken Noodles</b><span>Flat rice noodles, basil, spicy chili sauce</span></div>
-      </div>
-      <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/thai-fried-rice/">
+      </a>
+      <a class="rel-card" href="https://nakhonluangthaicos.com/menu/thai-fried-rice/">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-khaopad-hero.jpg" alt="Thai fried rice with egg and tomato, served with cucumber and lime" width="900" height="608" loading="lazy">
         <div class="t"><small>Fried rice</small><b>Thai Fried Rice</b><span>Thai, pineapple and basil fried rice</span></div>
-      </div>
+      </a>
       <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/khao-soi/">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl8-dish-khaosoi-opt.jpg" alt="Khao soi curry noodle soup with lime and red onion" width="900" height="668" loading="lazy">
         <div class="t"><small>Noodle soup</small><b>Khao Soi</b><span>Northern Thai curry noodle soup</span></div>
       </div>
     </div>
     <div class="more-links">
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</span>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/crab-rangoon/">Crab Rangoon</span>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</span>
+      <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</a>
+      <a href="https://nakhonluangthaicos.com/menu/crab-rangoon/">Crab Rangoon</a>
+      <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a>
       <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai Curry</span>
       <a href="https://nakhonluangthaicos.com/menu/">Full Menu</a>
     </div>
@@ -516,64 +522,148 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
 </div>
 <script type="application/ld+json">
 {
-  "@context":"https://schema.org",
-  "@graph":[
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Restaurant",
+   "@id": "https://nakhonluangthaicos.com/#restaurant",
+   "name": "Nakhon Luang Thai Kitchen",
+   "url": "https://nakhonluangthaicos.com/"
+  },
+  {
+   "@type": "WebSite",
+   "@id": "https://nakhonluangthaicos.com/#website",
+   "name": "Nakhon Luang Thai Kitchen",
+   "url": "https://nakhonluangthaicos.com"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://nakhonluangthaicos.com/menu/pad-thai/#webpage",
+   "url": "https://nakhonluangthaicos.com/menu/pad-thai/",
+   "name": "Pad Thai in Colorado Springs",
+   "isPartOf": {
+    "@id": "https://nakhonluangthaicos.com/#website"
+   },
+   "about": {
+    "@id": "https://nakhonluangthaicos.com/menu/pad-thai/#menusection"
+   },
+   "breadcrumb": {
+    "@id": "https://nakhonluangthaicos.com/menu/pad-thai/#breadcrumb"
+   },
+   "potentialAction": {
+    "@type": "OrderAction",
+    "target": "https://nakhonluangthaicos.com/order/"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "@id": "https://nakhonluangthaicos.com/menu/pad-thai/#breadcrumb",
+   "itemListElement": [
     {
-      "@type":"Restaurant",
-      "@id":"https://nakhonluangthaicos.com/#restaurant",
-      "name":"Nakhon Luang Thai Kitchen",
-      "url":"https://nakhonluangthaicos.com/"
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://nakhonluangthaicos.com/"
     },
     {
-      "@type":"WebSite",
-      "@id":"https://nakhonluangthaicos.com/#website",
-      "name":"Nakhon Luang Thai Kitchen",
-      "url":"https://nakhonluangthaicos.com"
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Menu",
+     "item": "https://nakhonluangthaicos.com/menu/"
     },
     {
-      "@type":"WebPage",
-      "@id":"https://nakhonluangthaicos.com/menu/pad-thai/#webpage",
-      "url":"https://nakhonluangthaicos.com/menu/pad-thai/",
-      "name":"Pad Thai in Colorado Springs",
-      "isPartOf":{"@id":"https://nakhonluangthaicos.com/#website"},
-      "about":{"@id":"https://nakhonluangthaicos.com/menu/pad-thai/#menusection"},
-      "breadcrumb":{"@id":"https://nakhonluangthaicos.com/menu/pad-thai/#breadcrumb"},
-      "potentialAction":{"@type":"OrderAction","target":"https://nakhonluangthaicos.com/order/"}
-    },
-    {
-      "@type":"BreadcrumbList",
-      "@id":"https://nakhonluangthaicos.com/menu/pad-thai/#breadcrumb",
-      "itemListElement":[
-        {"@type":"ListItem","position":1,"name":"Home","item":"https://nakhonluangthaicos.com/"},
-        {"@type":"ListItem","position":2,"name":"Menu","item":"https://nakhonluangthaicos.com/menu/"},
-        {"@type":"ListItem","position":3,"name":"Pad Thai","item":"https://nakhonluangthaicos.com/menu/pad-thai/"}
-      ]
-    },
-    {
-      "@type":"MenuSection",
-      "@id":"https://nakhonluangthaicos.com/menu/pad-thai/#menusection",
-      "name":"Pad Thai",
-      "provider":{"@id":"https://nakhonluangthaicos.com/#restaurant"},
-      "hasMenuItem":[
-        {"@type":"MenuItem","name":"Pad Thai","description":"Stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts."},
-        {"@type":"MenuItem","name":"Nakhon Luang Signature Stir Fried Noodles (Pad Thai)","description":"Rice noodles stir fried with egg, lemongrass, bean sprouts and grilled chicken. Topped with ground peanuts and green onion."},
-        {"@type":"MenuItem","name":"Pad Thai Woon Sen","description":"Vermicelli (glass noodles) with egg and bean sprouts, topped with green onions and crushed peanuts."},
-        {"@type":"MenuItem","name":"Kid's Pad Thai","description":"Stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts. Served with a juice box and 1 crab rangoon."}
-      ]
-    },
-    {
-      "@type":"FAQPage",
-      "@id":"https://nakhonluangthaicos.com/menu/pad-thai/#faq",
-      "mainEntity":[
-        {"@type":"Question","name":"Can I order Pad Thai online for pickup?","acceptedAnswer":{"@type":"Answer","text":"Yes. Order Pad Thai on our online ordering page and pick it up at 805 Village Center Drive in Colorado Springs."}},
-        {"@type":"Question","name":"Which proteins can I add to Pad Thai?","acceptedAnswer":{"@type":"Answer","text":"Our noodle menu lists chicken, beef, pork, tofu, mixed vegetables, shrimp, salmon, combination seafood and duck. Check the ordering page for the choices available with your dish. The signature Pad Thai comes with grilled chicken."}},
-        {"@type":"Question","name":"What is the difference between Pad Thai and Pad Thai Woon Sen?","acceptedAnswer":{"@type":"Answer","text":"Pad Thai uses stir-fried rice noodles. Pad Thai Woon Sen uses vermicelli, also called glass noodles, with the same egg, bean sprouts, green onions and crushed peanuts."}},
-        {"@type":"Question","name":"Can I choose how spicy my Pad Thai is?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every dish on our menu can be made to your desired spice level. Let us know when you order."}},
-        {"@type":"Question","name":"Does Pad Thai contain peanuts?","acceptedAnswer":{"@type":"Answer","text":"Our Pad Thai is topped with crushed peanuts. Please tell us about any allergy or dietary need before you order."}},
-        {"@type":"Question","name":"What are your hours?","acceptedAnswer":{"@type":"Answer","text":"We are open every day from 11:00 AM to 3:30 PM and from 4:30 PM to 8:30 PM."}}
-      ]
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Pad Thai",
+     "item": "https://nakhonluangthaicos.com/menu/pad-thai/"
     }
-  ]
+   ]
+  },
+  {
+   "@type": "MenuSection",
+   "@id": "https://nakhonluangthaicos.com/menu/pad-thai/#menusection",
+   "name": "Pad Thai",
+   "provider": {
+    "@id": "https://nakhonluangthaicos.com/#restaurant"
+   },
+   "hasMenuItem": [
+    {
+     "@type": "MenuItem",
+     "name": "Pad Thai",
+     "description": "Stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts."
+    },
+    {
+     "@type": "MenuItem",
+     "name": "Nakhon Luang Signature Stir Fried Noodles (Pad Thai)",
+     "description": "Rice noodles stir fried with egg, lemongrass, bean sprouts and grilled chicken. Topped with ground peanuts and green onion."
+    },
+    {
+     "@type": "MenuItem",
+     "name": "Pad Thai Woon Sen",
+     "description": "Vermicelli (glass noodles) with egg and bean sprouts, topped with green onions and crushed peanuts."
+    },
+    {
+     "@type": "MenuItem",
+     "name": "Kid's Pad Thai",
+     "description": "Stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts. Served with a juice box and 1 crab rangoon."
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://nakhonluangthaicos.com/menu/pad-thai/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can I order Pad Thai online for pickup?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Order Pad Thai on our online ordering page and pick it up at 805 Village Center Drive in Colorado Springs."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which proteins can I add to Pad Thai?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our noodle menu lists chicken, beef, pork, tofu, mixed vegetables, shrimp, salmon, combination seafood and duck. Check the ordering page for the choices available with your dish. The signature Pad Thai comes with grilled chicken."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the difference between Pad Thai and Pad Thai Woon Sen?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pad Thai uses stir-fried rice noodles. Pad Thai Woon Sen uses vermicelli, also called glass noodles, with the same egg, bean sprouts, green onions and crushed peanuts."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I choose how spicy my Pad Thai is?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Every dish on our menu can be made to your desired spice level. Let us know when you order."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Pad Thai contain peanuts?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our Pad Thai is topped with crushed peanuts. Please tell us about any allergy or dietary need before you order."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are your hours?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We are open every day from 11:00 AM to 3:30 PM and from 4:30 PM to 8:30 PM. Questions? Reach us at (719) 531-5175."
+     }
+    }
+   ]
+  }
+ ]
 }
 </script>
 <script>
