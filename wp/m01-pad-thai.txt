@@ -471,7 +471,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl-khaopad-hero.jpg" alt="Thai fried rice with egg and tomato, served with cucumber and lime" width="900" height="608" loading="lazy">
         <div class="t"><small>Fried rice</small><b>Thai Fried Rice</b><span>Thai, pineapple and basil fried rice</span></div>
       </a>
-      <div class="rel-card" data-href="https://nakhonluangthaicos.com/menu/khao-soi/">
+      <div class="rel-card" data-menu="khao-soi">
         <img src="https://nakhonluangthaicos.com/wp-content/uploads/2026/09/nl8-dish-khaosoi-opt.jpg" alt="Khao soi curry noodle soup with lime and red onion" width="900" height="668" loading="lazy">
         <div class="t"><small>Noodle soup</small><b>Khao Soi</b><span>Northern Thai curry noodle soup</span></div>
       </div>
@@ -480,7 +480,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</a>
       <a href="https://nakhonluangthaicos.com/menu/crab-rangoon/">Crab Rangoon</a>
       <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai Curry</span>
+      <span class="pl" data-menu="thai-curry">Thai Curry</span>
       <a href="https://nakhonluangthaicos.com/menu/">Full Menu</a>
     </div>
   </div>

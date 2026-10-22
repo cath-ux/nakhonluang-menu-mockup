@@ -458,7 +458,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="sec-head rise">
       <div class="eyebrow">Plan the rest of your meal</div>
       <h2>Dishes to pair with your Mango Sunset</h2>
-      <p class="bluf">Start with our <a href="https://nakhonluangthaicos.com/menu/pad-thai/">Pad Thai</a>, or add one of our <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-tea-boba/">Thai iced tea and boba drinks</span>.</p>
+      <p class="bluf">Start with our <a href="https://nakhonluangthaicos.com/menu/pad-thai/">Pad Thai</a>, or add one of our <span class="pl" data-menu="thai-tea-boba">Thai iced tea and boba drinks</span>.</p>
     </div>
     <div class="rel stagger">
       <a class="rel-card" href="https://nakhonluangthaicos.com/menu/pad-thai/">
@@ -475,7 +475,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       </a>
     </div>
     <div class="more-links">
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-tea-boba/">Thai Tea and Boba</span>
+      <span class="pl" data-menu="thai-tea-boba">Thai Tea and Boba</span>
       <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</a>
       <a href="https://nakhonluangthaicos.com/menu/crab-rangoon/">Crab Rangoon</a>
       <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a>

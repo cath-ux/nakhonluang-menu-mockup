@@ -471,7 +471,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
       <a href="https://nakhonluangthaicos.com/menu/drunken-noodles/">Drunken Noodles</a>
       <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a>
       <a href="https://nakhonluangthaicos.com/menu/mango-sticky-rice/">Mango Sticky Rice</a>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/khao-soi/">Khao Soi</span>
+      <span class="pl" data-menu="khao-soi">Khao Soi</span>
       <a href="https://nakhonluangthaicos.com/menu/">Full Menu</a>
     </div>
   </div>

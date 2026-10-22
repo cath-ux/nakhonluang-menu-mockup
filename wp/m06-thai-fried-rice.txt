@@ -410,7 +410,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="sec-head rise">
       <div class="eyebrow">Not sure which fried rice</div>
       <h2>Thai fried rice next to our other fried rice</h2>
-      <p class="bluf">Each style adds its own vegetables and seasoning. Want something different? See our <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai curry menu</span> or our <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-salads/">Thai salads</span>.</p>
+      <p class="bluf">Each style adds its own vegetables and seasoning. Want something different? See our <span class="pl" data-menu="thai-curry">Thai curry menu</span> or our <span class="pl" data-menu="thai-salads">Thai salads</span>.</p>
     </div>
     <div class="cmp-wrap rise">
       <table class="cmp">
@@ -479,8 +479,8 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="more-links">
       <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</a>
       <a href="https://nakhonluangthaicos.com/menu/mango-sticky-rice/">Mango Sticky Rice</a>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai Curry</span>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-salads/">Thai Salads</span>
+      <span class="pl" data-menu="thai-curry">Thai Curry</span>
+      <span class="pl" data-menu="thai-salads">Thai Salads</span>
       <a href="https://nakhonluangthaicos.com/menu/">Full Menu</a>
     </div>
   </div>

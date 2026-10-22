@@ -403,7 +403,7 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="sec-head rise">
       <div class="eyebrow">More noodle choices</div>
       <h2>Drunken noodles next to our other noodle dishes</h2>
-      <p class="bluf">Each plate uses a different noodle and sauce. Compare <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a> for a soy sauce plate, or see our <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai curry choices</span> if you would rather have a curry.</p>
+      <p class="bluf">Each plate uses a different noodle and sauce. Compare <a href="https://nakhonluangthaicos.com/menu/pad-see-ew/">Pad See Ew</a> for a soy sauce plate, or see our <span class="pl" data-menu="thai-curry">Thai curry choices</span> if you would rather have a curry.</p>
     </div>
     <div class="cmp-wrap rise">
       <table class="cmp">
@@ -472,8 +472,8 @@ body.admin-bar #nlm .subnav{top:calc(var(--navh) + 32px)}
     <div class="more-links">
       <a href="https://nakhonluangthaicos.com/menu/spring-rolls/">Fresh Spring Rolls</a>
       <a href="https://nakhonluangthaicos.com/menu/thai-fried-rice/">Thai Fried Rice</a>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/khao-soi/">Khao Soi</span>
-      <span class="pl" data-href="https://nakhonluangthaicos.com/menu/thai-curry/">Thai Curry</span>
+      <span class="pl" data-menu="khao-soi">Khao Soi</span>
+      <span class="pl" data-menu="thai-curry">Thai Curry</span>
       <a href="https://nakhonluangthaicos.com/menu/">Full Menu</a>
     </div>
   </div>
