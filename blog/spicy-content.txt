@@ -31,7 +31,7 @@ h2[id]{scroll-margin-top:110px;}
 <p>Not every Thai dish is spicy, and on our menu the heat on every dish can be changed. At <strong><a href="https://nakhonluangthaicos.com/">Nakhon Luang Thai Kitchen</a></strong>, we cook Thai and Lao food at 805 Village Center Drive in Rockrimmon, and every dish on our menu can be made to the spice level you ask for. This guide shows where the heat comes from, which dishes start mild and how to set the level you want.</p>
 <p>Not sure how hot a dish runs? <strong><a href="https://nakhonluangthaicos.com/contact/">Contact us</a></strong> and ask before you order.</p>
 <h2 id="what-spicy-means-in-thai-cooking">What "Spicy" Means in Thai Cooking</h2>
-<p>On our menu, the heat in a spicy dish comes from chili. How hot it feels depends on the chili it carries and the level you choose.</p>
+<p>On our menu, the heat in a spicy dish comes from chili. How hot it feels depends on the chili it carries and the level you choose. Below, we explain what makes chili feel hot, how heat is measured and why a dish name alone will not tell you how spicy a plate will be.</p>
 <h3>Capsaicin, the Compound Behind the Burn</h3>
 <p>According to the National Institute of Standards and Technology (NIST), the levels of a compound called capsaicin determine how hot a pepper feels. When you eat spicy food, the capsaicin attaches to heat-sensing receptors in your mouth.</p>
 <p>NIST also points out that this is not real heat. It is a burning sensation in the mouth.</p>
@@ -42,7 +42,7 @@ h2[id]{scroll-margin-top:110px;}
 <p>Names can mislead. On our menu, for example, the Green Curry description names a spicy curry paste, while the Red Curry description does not use the word spicy.</p>
 <p>The safest guide is the dish description. If it lists chilies, chili sauce, chili paste or a spicy curry paste, the heat is part of the recipe.</p>
 <h2 id="where-the-heat-comes-from-on-our-menu">Where the Heat Comes From on Our Menu</h2>
-<p>On our menu, heat comes from four places: fresh chilies, chili sauces, chili paste and curry paste. Knowing which one a dish uses tells you what to expect.</p>
+<p>On our menu, heat comes from four places: fresh chilies, chili sauces, chili paste and curry paste. Knowing which one a dish uses tells you what to expect. Each source shows up in a different part of the menu, from the salads and stir-fries to the curries and soups.</p>
 <h3>Fresh Chilies in Our Salads</h3>
 <p>Our salads are where fresh chili shows up most plainly. Papaya Salad mixes green papaya, carrot and tomatoes with garlic, chilies, sugar, fish sauce, lime and green beans, topped with peanuts.</p>
 <p>Larb Salad brings red onions, mint, green onions, lime juice and chilies together with toasted rice powder. Nam Tok Beef Salad, an Isaan-style dish, is drizzled with a zesty chili sauce.</p>
@@ -57,7 +57,7 @@ h2[id]{scroll-margin-top:110px;}
 <h3>Hot and Sour Soup</h3>
 <p>Tom Yum is a clear hot and sour soup with mushrooms, tomatoes, onions, lemongrass, galangal, kaffir lime leaves and lime juice. If you want a soup without the hot and sour edge, Tom Kha is the one our menu describes as mild.</p>
 <h2 id="dishes-on-our-menu-with-no-chili-listed">Dishes on Our Menu With No Chili Listed</h2>
-<p>Many of our dishes list no chili at all. They are a place to start if you want to see what the menu lists before choosing a level.</p>
+<p>Many of our dishes list no chili at all. They are a place to start if you want to see what the menu lists before choosing a level. You will find them among our noodles, fried rice, stir-fries, soups and curries, and each one can still be made hotter if you ask.</p>
 <h3>Noodles and Fried Rice</h3>
 <p>Pad Thai is stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts. Thai Fried Rice is stir-fried rice with egg, onions, tomatoes, peas and carrot.</p>
 <p>Neither description lists chili, and our <strong><a href="https://nakhonluangthaicos.com/best-thai-dish-for-beginners-colorado-springs/">guide to a first Thai order</a></strong> has more ideas for a gentle start.</p>
@@ -66,7 +66,7 @@ h2[id]{scroll-margin-top:110px;}
 <h3>Coconut Soup and Gentler Curries</h3>
 <p>Tom Kha is a mild soup made with coconut milk, mushrooms, tomatoes, onions, lemongrass, galangal, kaffir lime leaves and lime juice. Yellow Curry and Massaman Curry are both made with potatoes and coconut milk, and neither description lists chili.</p>
 <h2 id="how-heat-is-set-when-you-order">How Heat Is Set When You Order</h2>
-<p>Every dish on our menu can be made to your desired spice level. That means a dish with chili can be toned down, and a dish without chili can be made hotter.</p>
+<p>Every dish on our menu can be made to your desired spice level. That means a dish with chili can be toned down, and a dish without chili can be made hotter. You can set the level online, compare where the heat starts or ask us before you order.</p>
 <h3>Choose a Level on Our Online Ordering Page</h3>
 <p>When you order online, our main dishes, including the curries, noodles, salads, soups, stir-fries and fried rice, come with a spice level choice. Pick it before you add the dish to your order.</p>
 <h3>Compare Where the Heat Starts</h3>
@@ -114,7 +114,7 @@ h2[id]{scroll-margin-top:110px;}
 <h3>Ask About a Dish Before You Order</h3>
 <p>If you are unsure, ask us how a dish is made before you order. Please also tell us about any allergy or dietary need. Papaya Salad, for example, is topped with peanuts.</p>
 <h2 id="what-this-means-for-your-next-thai-order-in-colorado-springs">What This Means for Your Next Thai Order in Colorado Springs</h2>
-<p>Thai food is only as spicy as the dish and the level you choose. A dish built on chilies can be made gentler, and a mild dish can be made hotter.</p>
+<p>Thai food is only as spicy as the dish and the level you choose. A dish built on chilies can be made gentler, and a mild dish can be made hotter. The description on our menu tells you where a dish starts, and your order tells our kitchen where to finish it.</p>
 <p>Here at <strong>Nakhon Luang Thai Kitchen</strong>, our menu draws on Bangkok, Isan, Northern and Southern Thai and Lao cooking, and every dish can be made to your desired spice level. Pick your dish and your level on our <strong><a href="https://nakhonluangthaicos.com/order/">online ordering page</a></strong>, then pick it up at our Rockrimmon kitchen.</p>
 <p>Questions about how hot a dish runs? Reach us at <strong><a href="tel:+17195315175">(719) 531-5175</a></strong>.</p>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
