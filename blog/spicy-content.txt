@@ -10,6 +10,7 @@ h2,h3{clear:both;}
 .nl-toc a{color:#f6ecd5 !important;text-decoration:none !important;font-weight:500;}
 .nl-toc a:hover,.nl-toc a:focus{color:#eabc53 !important;text-decoration:underline !important;}
 h2[id]{scroll-margin-top:110px;}
+@media (max-width:600px){.nl-stack{overflow:visible !important;box-shadow:none !important;}.nl-stack table{min-width:0 !important;}.nl-stack thead{display:none;}.nl-stack tr{display:block;margin:0 0 14px;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,0.18);}.nl-stack td{display:block;width:auto;padding:10px 16px !important;}.nl-stack td[data-label]:before{content:attr(data-label);display:block;margin-bottom:2px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#8a5a2b;}}
 </style>
 <h1>Is Thai Food Spicy in Colorado Springs, CO?</h1>
 <p class="nl-byline">By <a href="https://nakhonluangthaicos.com/about/">Nakhon Luang Thai Kitchen</a></p>
@@ -27,7 +28,7 @@ h2[id]{scroll-margin-top:110px;}
 </nav>
 
 <figure class="wp-block-image size-large nl-hero"><img fetchpriority="high" decoding="async" src="__HERO_URL__" alt="Roasted duck drunken noodles with basil at Nakhon Luang Thai Kitchen with the question Is Thai food spicy in Colorado Springs, CO?" class="wp-image-__HERO_ID__" /></figure>
-<p>Some Thai dishes are built on chilies and some list none at all. On our menu, Papaya Salad is mixed with chilies, while Pad Thai lists no chili, and both can be made to the spice level you ask for.</p>
+<p>Some Thai dishes are built on chilies and some list none at all. On our menu, a salad mixed with fresh chilies and a noodle plate with no chili listed can share the same table, and the heat on both can be adjusted.</p>
 <p>Not every Thai dish is spicy, and on our menu the heat on every dish can be changed. At <strong><a href="https://nakhonluangthaicos.com/">Nakhon Luang Thai Kitchen</a></strong>, we cook Thai and Lao food at 805 Village Center Drive in Rockrimmon, and every dish on our menu can be made to the spice level you ask for. This guide shows where the heat comes from, which dishes start mild and how to set the level you want.</p>
 <p>Not sure how hot a dish runs? <strong><a href="https://nakhonluangthaicos.com/contact/">Contact us</a></strong> and ask before you order.</p>
 <h2 id="what-spicy-means-in-thai-cooking">What "Spicy" Means in Thai Cooking</h2>
@@ -39,15 +40,15 @@ h2[id]{scroll-margin-top:110px;}
 <p>The Scoville Scale expresses how pungent or hot a pepper is, NIST explains. In our view, that is why the amount of chili in a dish matters so much to how hot it feels.</p>
 <p>It is also why we let you set the level on every dish. Our guide to <strong><a href="https://nakhonluangthaicos.com/thai-restaurant-what-to-know-colorado-springs/">what to know before visiting a Thai restaurant</a></strong> covers the other questions first-time guests tend to have.</p>
 <h3>A Dish Name Is Not a Heat Rating</h3>
-<p>Names can mislead. On our menu, for example, the Green Curry description names a spicy curry paste, while the Red Curry description does not use the word spicy.</p>
+<p>Names can mislead. On our menu, for example, the <strong><a href="https://nakhonluangthaicos.com/menu/thai-curry/">Green Curry</a></strong> description names a spicy curry paste, while the Red Curry description does not use the word spicy.</p>
 <p>The safest guide is the dish description. If it lists chilies, chili sauce, chili paste or a spicy curry paste, the heat is part of the recipe.</p>
 <h2 id="where-the-heat-comes-from-on-our-menu">Where the Heat Comes From on Our Menu</h2>
 <p>On our menu, heat comes from four places: fresh chilies, chili sauces, chili paste and curry paste. Knowing which one a dish uses tells you what to expect. Each source shows up in a different part of the menu, from the salads and stir-fries to the curries and soups.</p>
 <h3>Fresh Chilies in Our Salads</h3>
-<p>Our salads are where fresh chili shows up most plainly. Papaya Salad mixes green papaya, carrot and tomatoes with garlic, chilies, sugar, fish sauce, lime and green beans, topped with peanuts.</p>
-<p>Larb Salad brings red onions, mint, green onions, lime juice and chilies together with toasted rice powder. Nam Tok Beef Salad, an Isaan-style dish, is drizzled with a zesty chili sauce.</p>
+<p>Our salads are where fresh chili shows up most plainly. <strong><a href="https://nakhonluangthaicos.com/papaya-salad-colorado-springs/">Papaya Salad</a></strong> mixes green papaya, carrot and tomatoes with garlic, chilies, sugar, fish sauce, lime and green beans, topped with peanuts.</p>
+<p><strong><a href="https://nakhonluangthaicos.com/larb-nam-tok-colorado-springs/">Larb Salad</a></strong> brings red onions, mint, green onions, lime juice and chilies together with toasted rice powder. Nam Tok Beef Salad, an Isaan-style dish, is drizzled with a zesty chili sauce.</p>
 <h3>Chili Sauce and Chili Paste in Stir-Fries and Noodles</h3>
-<p>Several stir-fries list chili in the sauce itself. Drunken Noodles and Drunken Woon Sen are made in a spicy chili sauce, and Spicy Basil Stir-Fry and Eggplant Delight are made with chili sauce.</p>
+<p>Several stir-fries list chili in the sauce itself. <strong><a href="https://nakhonluangthaicos.com/menu/drunken-noodles/">Drunken Noodles</a></strong> and Drunken Woon Sen are made in a spicy chili sauce, and Spicy Basil Stir-Fry and Eggplant Delight are made with chili sauce.</p>
 <p>Pad Prik Pao Seafood is stir-fried in chili paste and served with rice.</p>
 <h3>Curry Paste in Coconut Curries</h3>
 <img decoding="async" loading="lazy" src="https://nakhonluangthaicos.com/wp-content/uploads/2026/10/nl-red-curry-paste-wide.jpg" alt="Red curry paste in a small white bowl beside a stalk of lemongrass" class="nl-post-img wp-image-977" width="400" height="267" />
@@ -57,9 +58,9 @@ h2[id]{scroll-margin-top:110px;}
 <h3>Hot and Sour Soup</h3>
 <p>Tom Yum is a clear hot and sour soup with mushrooms, tomatoes, onions, lemongrass, galangal, kaffir lime leaves and lime juice. If you want a soup without the hot and sour edge, Tom Kha is the one our menu describes as mild.</p>
 <h2 id="dishes-on-our-menu-with-no-chili-listed">Dishes on Our Menu With No Chili Listed</h2>
-<p>Many of our dishes list no chili at all. They are a place to start if you want to see what the menu lists before choosing a level. You will find them among our noodles, fried rice, stir-fries, soups and curries, and each one can still be made hotter if you ask.</p>
+<p>Many of our dishes list no chili at all. They are a place to start if you want to see what the menu lists before choosing a level. You will find them among our noodles, fried rice, stir-fries, soups and curries, and each one can still take more heat if you ask.</p>
 <h3>Noodles and Fried Rice</h3>
-<p>Pad Thai is stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts. Thai Fried Rice is stir-fried rice with egg, onions, tomatoes, peas and carrot.</p>
+<p><strong><a href="https://nakhonluangthaicos.com/menu/pad-thai/">Pad Thai</a></strong> is stir-fried rice noodles with egg and bean sprouts, topped with green onions and crushed peanuts. Thai Fried Rice is stir-fried rice with egg, onions, tomatoes, peas and carrot.</p>
 <p>Neither description lists chili, and our <strong><a href="https://nakhonluangthaicos.com/best-thai-dish-for-beginners-colorado-springs/">guide to a first Thai order</a></strong> has more ideas for a gentle start.</p>
 <h3>Stir-Fries Built on Ginger, Garlic or Brown Sauce</h3>
 <p>Ginger Stir-Fry is made in a ginger-garlic sauce, and Cashew Nut comes in our special brown sauce. Garlic Pepper Stir-Fry is seasoned with white and black pepper, and its description lists no chili.</p>
@@ -71,7 +72,7 @@ h2[id]{scroll-margin-top:110px;}
 <p>When you order online, our main dishes, including the curries, noodles, salads, soups, stir-fries and fried rice, come with a spice level choice. Pick it before you add the dish to your order.</p>
 <h3>Compare Where the Heat Starts</h3>
 <p>This table shows where the heat comes from in some well-known dishes on our <strong><a href="https://nakhonluangthaicos.com/menu/">full menu</a></strong>, and a dish from the same part of the menu whose description lists no chili.</p>
-<div style="overflow-x:auto; -webkit-overflow-scrolling:touch; margin:26px 0; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.18);">
+<div class="nl-stack" style="overflow-x:auto; -webkit-overflow-scrolling:touch; margin:26px 0; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.18);">
 <table style="border-collapse:collapse; width:100%; min-width:560px; font-family:inherit; font-size:16px; background-color:#F6ECD5;">
 <thead>
 <tr style="background-color:#3D1F06;">
@@ -82,50 +83,50 @@ h2[id]{scroll-margin-top:110px;}
 </thead>
 <tbody>
 <tr style="background-color:#F6ECD5;">
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Papaya Salad</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Chilies mixed in</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Ask for a lower spice level</td>
+<td data-label="Dish" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Papaya Salad</td>
+<td data-label="Where the Heat Comes From" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Chilies mixed in</td>
+<td data-label="Starts Without Chili Listed" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Yum Nua Beef Salad</td>
 </tr>
 <tr style="background-color:#EFE4CB;">
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Drunken Noodles</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Spicy chili sauce</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Pad Thai</td>
+<td data-label="Dish" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Drunken Noodles</td>
+<td data-label="Where the Heat Comes From" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Spicy chili sauce</td>
+<td data-label="Starts Without Chili Listed" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Pad Thai</td>
 </tr>
 <tr style="background-color:#F6ECD5;">
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Green Curry</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Spicy green curry paste</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Yellow Curry</td>
+<td data-label="Dish" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Green Curry</td>
+<td data-label="Where the Heat Comes From" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Spicy green curry paste</td>
+<td data-label="Starts Without Chili Listed" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Yellow Curry</td>
 </tr>
 <tr style="background-color:#EFE4CB;">
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Tom Yum</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Hot and sour broth</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Tom Kha</td>
+<td data-label="Dish" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Tom Yum</td>
+<td data-label="Where the Heat Comes From" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Hot and sour broth</td>
+<td data-label="Starts Without Chili Listed" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Tom Kha</td>
 </tr>
 <tr style="background-color:#F6ECD5;">
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Spicy Basil Stir-Fry</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Chili sauce</td>
-<td style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Ginger Stir-Fry</td>
+<td data-label="Dish" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top; font-weight:700;">Spicy Basil Stir-Fry</td>
+<td data-label="Where the Heat Comes From" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Chili sauce</td>
+<td data-label="Starts Without Chili Listed" style="color:#4F2D1D !important; padding:14px 18px; border-bottom:1px solid #E0D2AE; vertical-align:top;">Ginger Stir-Fry</td>
 </tr>
 </tbody>
 </table>
 </div>
 
-<p>Every dish in the table can still be made hotter or milder. The dishes in the last column simply start without chili in their description.</p>
+<p>Every dish in the table can still be adjusted either way. The dishes in the last column simply start without chili in their description.</p>
 <h3>Ask About a Dish Before You Order</h3>
 <p>If you are unsure, ask us how a dish is made before you order. Please also tell us about any allergy or dietary need. Papaya Salad, for example, is topped with peanuts.</p>
 <h2 id="what-this-means-for-your-next-thai-order-in-colorado-springs">What This Means for Your Next Thai Order in Colorado Springs</h2>
-<p>Thai food is only as spicy as the dish and the level you choose. A dish built on chilies can be made gentler, and a mild dish can be made hotter. The description on our menu tells you where a dish starts, and your order tells our kitchen where to finish it.</p>
-<p>Here at <strong>Nakhon Luang Thai Kitchen</strong>, our menu draws on Bangkok, Isan, Northern and Southern Thai and Lao cooking, and every dish can be made to your desired spice level. Pick your dish and your level on our <strong><a href="https://nakhonluangthaicos.com/order/">online ordering page</a></strong>, then pick it up at our Rockrimmon kitchen.</p>
+<p>Thai food is only as spicy as the dish and the level you choose. A dish built on chilies can be made gentler, and a mild dish can take more heat. The description on our menu tells you where a dish starts, and your order tells our kitchen where to finish it.</p>
+<p>Here at <strong>Nakhon Luang Thai Kitchen</strong>, our menu draws on Bangkok, Isan, Northern and Southern Thai and Lao cooking, and the heat on every dish is yours to set. Pick your dish and your level on our <strong><a href="https://nakhonluangthaicos.com/order/">online ordering page</a></strong>, then pick it up at our Rockrimmon kitchen.</p>
 <p>Questions about how hot a dish runs? Reach us at <strong><a href="tel:+17195315175">(719) 531-5175</a></strong>.</p>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <p><strong>Is Thai food spicy in Colorado Springs, CO?</strong>
-Not every Thai dish is spicy. On our menu, dishes such as Papaya Salad, Drunken Noodles and Green Curry carry chili, while Pad Thai, Thai Fried Rice and Tom Kha list none. Every dish can be made to your desired spice level.</p>
+It depends on the dish you order. Our menu lists chili in dishes such as Larb Salad and Pad Prik Pao Seafood, and none in dishes such as Cashew Nut and Massaman Curry. You set the final heat when you order.</p>
 <p><strong>What makes Thai food spicy?</strong>
 Most of the heat comes from chilies, used fresh, in chili sauce, in chili paste or in curry paste. NIST explains that capsaicin in peppers is what creates the burning sensation.</p>
 <p><strong>Which dishes on your menu list no chili?</strong>
 Several dishes list no chili, including Pad Thai, Thai Fried Rice, Ginger Stir-Fry, Cashew Nut and Tom Kha, which our menu describes as mild. Yellow Curry and Massaman Curry also list no chili.</p>
-<p><strong>Can I order a spicy dish mild?</strong>
-Yes. Every dish on our menu can be made to your desired spice level, so a chili dish such as Drunken Noodles can be toned down. Choose your level when you order.</p>
+<p><strong>Is Tom Yum spicy?</strong>
+Our menu describes Tom Yum as a clear hot and sour soup with lemongrass, galangal, kaffir lime leaves and lime juice. For less heat, ask for a lower level when you order, or choose Tom Kha, which our menu describes as mild.</p>
 <p><strong>Which dishes on your menu list chili?</strong>
 The dishes that list chili are the ones built on heat, such as Papaya Salad, Larb Salad, Drunken Noodles, Pad Prik Pao Seafood and Green Curry. How hot each one is depends on the level you choose.</p>
 <p><strong>Is green curry hotter than red curry?</strong>
@@ -134,4 +135,4 @@ On our menu, Green Curry is described with a spicy green curry paste, while the 
 Yes. Our main dishes, including curries, noodles, salads, soups, stir-fries and fried rice, come with a spice level choice on our online ordering page.</p>
 <p><strong>Does Papaya Salad contain peanuts?</strong>
 Yes. Our menu describes Papaya Salad as topped with peanuts. Please tell us about any allergy or dietary need when you order.</p>
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "BlogPosting", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/#article", "headline": "Is Thai Food Spicy in Colorado Springs, CO?", "description": "Not all Thai food is spicy. At Nakhon Luang Thai Kitchen in Colorado Springs, see where the heat comes from and how to set your level. Order online.", "datePublished": "__PUB__", "dateModified": "__PUB__", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/"}, "author": {"@type": "Organization", "@id": "https://nakhonluangthaicos.com/#restaurant", "name": "Nakhon Luang Thai Kitchen"}, "publisher": {"@type": "Organization", "@id": "https://nakhonluangthaicos.com/#restaurant", "name": "Nakhon Luang Thai Kitchen", "url": "https://nakhonluangthaicos.com/"}, "image": "__HERO_URL__"}, {"@type": "FAQPage", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/#faq", "mainEntity": [{"@type": "Question", "name": "Is Thai food spicy in Colorado Springs, CO?", "acceptedAnswer": {"@type": "Answer", "text": "Not every Thai dish is spicy. On our menu, dishes such as Papaya Salad, Drunken Noodles and Green Curry carry chili, while Pad Thai, Thai Fried Rice and Tom Kha list none. Every dish can be made to your desired spice level."}}, {"@type": "Question", "name": "What makes Thai food spicy?", "acceptedAnswer": {"@type": "Answer", "text": "Most of the heat comes from chilies, used fresh, in chili sauce, in chili paste or in curry paste. NIST explains that capsaicin in peppers is what creates the burning sensation."}}, {"@type": "Question", "name": "Which dishes on your menu list no chili?", "acceptedAnswer": {"@type": "Answer", "text": "Several dishes list no chili, including Pad Thai, Thai Fried Rice, Ginger Stir-Fry, Cashew Nut and Tom Kha, which our menu describes as mild. Yellow Curry and Massaman Curry also list no chili."}}, {"@type": "Question", "name": "Can I order a spicy dish mild?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every dish on our menu can be made to your desired spice level, so a chili dish such as Drunken Noodles can be toned down. Choose your level when you order."}}, {"@type": "Question", "name": "Which dishes on your menu list chili?", "acceptedAnswer": {"@type": "Answer", "text": "The dishes that list chili are the ones built on heat, such as Papaya Salad, Larb Salad, Drunken Noodles, Pad Prik Pao Seafood and Green Curry. How hot each one is depends on the level you choose."}}, {"@type": "Question", "name": "Is green curry hotter than red curry?", "acceptedAnswer": {"@type": "Answer", "text": "On our menu, Green Curry is described with a spicy green curry paste, while the Red Curry description does not use the word spicy. Either one can be made to the spice level you choose, and our curry guide compares all seven curries on our menu."}}, {"@type": "Question", "name": "Can I choose the spice level when I order online?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Our main dishes, including curries, noodles, salads, soups, stir-fries and fried rice, come with a spice level choice on our online ordering page."}}, {"@type": "Question", "name": "Does Papaya Salad contain peanuts?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Our menu describes Papaya Salad as topped with peanuts. Please tell us about any allergy or dietary need when you order."}}]}, {"@type": "BreadcrumbList", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://nakhonluangthaicos.com/"}, {"@type": "ListItem", "position": 2, "name": "Thai Food Guides", "item": "https://nakhonluangthaicos.com/category/thai-food-guides/"}, {"@type": "ListItem", "position": 3, "name": "Is Thai Food Spicy in Colorado Springs, CO?", "item": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "BlogPosting", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/#article", "headline": "Is Thai Food Spicy in Colorado Springs, CO?", "description": "Not all Thai food is spicy. At Nakhon Luang Thai Kitchen in Colorado Springs, see where the heat comes from and how to set your level. Order online.", "datePublished": "__PUB__", "dateModified": "__PUB__", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/"}, "author": {"@type": "Organization", "@id": "https://nakhonluangthaicos.com/#restaurant", "name": "Nakhon Luang Thai Kitchen"}, "publisher": {"@type": "Organization", "@id": "https://nakhonluangthaicos.com/#restaurant", "name": "Nakhon Luang Thai Kitchen", "url": "https://nakhonluangthaicos.com/"}, "image": "__HERO_URL__"}, {"@type": "FAQPage", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/#faq", "mainEntity": [{"@type": "Question", "name": "Is Thai food spicy in Colorado Springs, CO?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on the dish you order. Our menu lists chili in dishes such as Larb Salad and Pad Prik Pao Seafood, and none in dishes such as Cashew Nut and Massaman Curry. You set the final heat when you order."}}, {"@type": "Question", "name": "What makes Thai food spicy?", "acceptedAnswer": {"@type": "Answer", "text": "Most of the heat comes from chilies, used fresh, in chili sauce, in chili paste or in curry paste. NIST explains that capsaicin in peppers is what creates the burning sensation."}}, {"@type": "Question", "name": "Which dishes on your menu list no chili?", "acceptedAnswer": {"@type": "Answer", "text": "Several dishes list no chili, including Pad Thai, Thai Fried Rice, Ginger Stir-Fry, Cashew Nut and Tom Kha, which our menu describes as mild. Yellow Curry and Massaman Curry also list no chili."}}, {"@type": "Question", "name": "Is Tom Yum spicy?", "acceptedAnswer": {"@type": "Answer", "text": "Our menu describes Tom Yum as a clear hot and sour soup with lemongrass, galangal, kaffir lime leaves and lime juice. For less heat, ask for a lower level when you order, or choose Tom Kha, which our menu describes as mild."}}, {"@type": "Question", "name": "Which dishes on your menu list chili?", "acceptedAnswer": {"@type": "Answer", "text": "The dishes that list chili are the ones built on heat, such as Papaya Salad, Larb Salad, Drunken Noodles, Pad Prik Pao Seafood and Green Curry. How hot each one is depends on the level you choose."}}, {"@type": "Question", "name": "Is green curry hotter than red curry?", "acceptedAnswer": {"@type": "Answer", "text": "On our menu, Green Curry is described with a spicy green curry paste, while the Red Curry description does not use the word spicy. Either one can be made to the spice level you choose, and our curry guide compares all seven curries on our menu."}}, {"@type": "Question", "name": "Can I choose the spice level when I order online?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Our main dishes, including curries, noodles, salads, soups, stir-fries and fried rice, come with a spice level choice on our online ordering page."}}, {"@type": "Question", "name": "Does Papaya Salad contain peanuts?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Our menu describes Papaya Salad as topped with peanuts. Please tell us about any allergy or dietary need when you order."}}]}, {"@type": "BreadcrumbList", "@id": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://nakhonluangthaicos.com/"}, {"@type": "ListItem", "position": 2, "name": "Thai Food Guides", "item": "https://nakhonluangthaicos.com/category/thai-food-guides/"}, {"@type": "ListItem", "position": 3, "name": "Is Thai Food Spicy in Colorado Springs, CO?", "item": "https://nakhonluangthaicos.com/is-thai-food-spicy-colorado-springs/"}]}]}</script>
